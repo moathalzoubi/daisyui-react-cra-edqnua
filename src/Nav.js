@@ -21,7 +21,7 @@ export const AppBar = () => {
         </label>
       </div>
       <div class="navbar-center">
-        <a class="btn btn-ghost normal-case text-xl"><Wallet</a>
+        <a class="btn btn-ghost normal-case text-xl">UiWallet</a>
       </div>
       <div class="navbar-end">
         <button class="btn btn-ghost btn-circle">
